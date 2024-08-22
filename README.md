@@ -6,17 +6,23 @@ I have successfully integrated Spring Boot with the Postman API and connected it
 
 The dependencies required for this project include:
 
-Spring Web
-Spring Data JPA
-MySQL Driver
-Lombok
-Spring Boot DevTools
+Spring Web,
+
+Spring Data JPA,
+
+MySQL Driver,
+
+Lombok,
+
+Spring Boot DevTools.
 
 Additionally, the tools and environments I used to complete this project are:
 
-Spring Workspace
-Postman
-MySQL Database
+Spring Workspace,
+
+Postman,
+
+MySQL Database.
 
 This project has greatly enhanced my understanding of full-stack development, particularly in terms of API integration and database management.
 
